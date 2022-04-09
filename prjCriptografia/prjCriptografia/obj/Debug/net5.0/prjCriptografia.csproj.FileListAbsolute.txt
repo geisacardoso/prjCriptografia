@@ -1,0 +1,16 @@
+C:\Users\Geisa Cardoso\source\repos\prjCriptografia\prjCriptografia\bin\Debug\net5.0\prjCriptografia.exe
+C:\Users\Geisa Cardoso\source\repos\prjCriptografia\prjCriptografia\bin\Debug\net5.0\prjCriptografia.deps.json
+C:\Users\Geisa Cardoso\source\repos\prjCriptografia\prjCriptografia\bin\Debug\net5.0\prjCriptografia.runtimeconfig.json
+C:\Users\Geisa Cardoso\source\repos\prjCriptografia\prjCriptografia\bin\Debug\net5.0\prjCriptografia.runtimeconfig.dev.json
+C:\Users\Geisa Cardoso\source\repos\prjCriptografia\prjCriptografia\bin\Debug\net5.0\prjCriptografia.dll
+C:\Users\Geisa Cardoso\source\repos\prjCriptografia\prjCriptografia\bin\Debug\net5.0\ref\prjCriptografia.dll
+C:\Users\Geisa Cardoso\source\repos\prjCriptografia\prjCriptografia\bin\Debug\net5.0\prjCriptografia.pdb
+C:\Users\Geisa Cardoso\source\repos\prjCriptografia\prjCriptografia\obj\Debug\net5.0\prjCriptografia.csprojAssemblyReference.cache
+C:\Users\Geisa Cardoso\source\repos\prjCriptografia\prjCriptografia\obj\Debug\net5.0\prjCriptografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geisa Cardoso\source\repos\prjCriptografia\prjCriptografia\obj\Debug\net5.0\prjCriptografia.AssemblyInfoInputs.cache
+C:\Users\Geisa Cardoso\source\repos\prjCriptografia\prjCriptografia\obj\Debug\net5.0\prjCriptografia.AssemblyInfo.cs
+C:\Users\Geisa Cardoso\source\repos\prjCriptografia\prjCriptografia\obj\Debug\net5.0\prjCriptografia.csproj.CoreCompileInputs.cache
+C:\Users\Geisa Cardoso\source\repos\prjCriptografia\prjCriptografia\obj\Debug\net5.0\prjCriptografia.dll
+C:\Users\Geisa Cardoso\source\repos\prjCriptografia\prjCriptografia\obj\Debug\net5.0\ref\prjCriptografia.dll
+C:\Users\Geisa Cardoso\source\repos\prjCriptografia\prjCriptografia\obj\Debug\net5.0\prjCriptografia.pdb
+C:\Users\Geisa Cardoso\source\repos\prjCriptografia\prjCriptografia\obj\Debug\net5.0\prjCriptografia.genruntimeconfig.cache
